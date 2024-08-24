@@ -1,4 +1,4 @@
-# Meta Front-End Developer Professional Certificate
+# Meta Front-End Developer Coursera Platform
 
 <img src="./meta-logo.png" width=150>
 
